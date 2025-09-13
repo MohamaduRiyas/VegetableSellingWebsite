@@ -7,7 +7,7 @@ const About: React.FC = () => {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12 md:gap-20">
           <div className="md:w-1/2 w-full animate-fade-in-up">
             <img
-              src="https://images.unsplash.com/photo-1578351184349-c124a1b5d1e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
+              src="https://iprep.in/wp-content/uploads/2024/11/from-market-to-home-class-4-EVS-chapter-15-1024x585.webp"
               alt="A vibrant vegetable market stall"
               className="h-full w-full object-cover rounded-2xl shadow-xl"
             />

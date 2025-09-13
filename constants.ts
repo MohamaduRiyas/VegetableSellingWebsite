@@ -26,7 +26,7 @@ export const products: Product[] = [
     tamilName: 'தக்காளி',
     weight: '500 g',
     price: 20,
-    imageUrl: 'https://i.imgur.com/4zL6f7u.png',
+    imageUrl: 'https://silvaintl.imgix.net/blog/Health-Benefits-Tomatoes.jpg?auto=compress%2Cformat&ch=dpr&cs=srgb&dpr=1&fit=crop&fp-x=0.5&fp-y=0.5&h=375&ixlib=php-3.1.0&q=75&sharp=10&step=100&w=375',
     category: 'vegetables',
   },
   {
@@ -35,7 +35,7 @@ export const products: Product[] = [
     tamilName: 'வெங்காயம்',
     weight: '1 kg',
     price: 40,
-    imageUrl: 'https://i.imgur.com/JxgA3Q5.png',
+    imageUrl: 'https://plantix.net/en/library/assets/custom/crop-images/onion.jpeg',
     category: 'vegetables',
   },
   {
@@ -44,7 +44,7 @@ export const products: Product[] = [
     tamilName: 'உருளைக்கிழங்கு',
     weight: '1 kg',
     price: 30,
-    imageUrl: 'https://i.imgur.com/I2sS21n.png',
+    imageUrl: 'https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP.jpg',
     category: 'vegetables',
   },
   {
@@ -53,7 +53,7 @@ export const products: Product[] = [
     tamilName: 'கத்திரிக்காய்',
     weight: '500 g',
     price: 25,
-    imageUrl: 'https://i.imgur.com/jGq8e4m.png',
+    imageUrl: 'https://pushtiorganics.com/cdn/shop/files/Brinjal_d2d7db50-62dd-4b99-af45-9f0adf46703d_1200x.png?v=1709270808',
     category: 'vegetables',
   },
   {
@@ -62,7 +62,7 @@ export const products: Product[] = [
     tamilName: 'முருங்கைக்காய்',
     weight: '2 pcs',
     price: 15,
-    imageUrl: 'https://i.imgur.com/YwNqT8U.png',
+    imageUrl: 'https://healthy-indian.com/wp-content/uploads/2017/08/drumsticks-600-x-450.jpg',
     category: 'vegetables',
   },
   {
@@ -71,7 +71,7 @@ export const products: Product[] = [
     tamilName: 'வெண்டைக்காய்',
     weight: '500 g',
     price: 20,
-    imageUrl: 'https://i.imgur.com/M5QjL2Q.png',
+    imageUrl: 'https://d3kgrlupo77sg7.cloudfront.net/media/l3-grocery2.shopnix.org/images/products/hypercity-fresh-sweet-lime-loose1-v-500-g.20171011123502.webp',
     category: 'vegetables',
   },
   {
@@ -80,7 +80,7 @@ export const products: Product[] = [
     tamilName: 'பீன்ஸ்',
     weight: '500 g',
     price: 35,
-    imageUrl: 'https://i.imgur.com/tY73s7Y.png',
+    imageUrl: 'https://vgrgardens.com/wp-content/uploads/2024/11/Bush-Beans-%E0%AE%AA%E0%AF%80%E0%AE%A9%E0%AF%8D%E0%AE%B8%E0%AF%8D.jpg',
     category: 'vegetables',
   },
   {
@@ -89,7 +89,7 @@ export const products: Product[] = [
     tamilName: 'கேரட்',
     weight: '500 g',
     price: 30,
-    imageUrl: 'https://i.imgur.com/pTBn8qC.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTba3FfUO6CI9cySnHdGt1roZY60bdUInxLXQ&s',
     category: 'vegetables',
   },
   {
@@ -98,7 +98,7 @@ export const products: Product[] = [
     tamilName: 'பீட்ரூட்',
     weight: '500 g',
     price: 25,
-    imageUrl: 'https://i.imgur.com/yFf2N4g.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKE2uRnre8_xM7xsYy4U6_EvxcD7WGhNySg&s',
     category: 'vegetables',
   },
   {
@@ -107,7 +107,7 @@ export const products: Product[] = [
     tamilName: 'முட்டைக்கோஸ்',
     weight: '1 pc',
     price: 20,
-    imageUrl: 'https://i.imgur.com/rS254tB.png',
+    imageUrl: 'https://www.koppert.com/content/_processed_/0/4/csm_Cabbage_39513da9af.jpg',
     category: 'vegetables',
   },
   {
@@ -116,7 +116,7 @@ export const products: Product[] = [
     tamilName: 'காலிஃபிளவர்',
     weight: '1 pc',
     price: 30,
-    imageUrl: 'https://i.imgur.com/QjA8W4X.png',
+    imageUrl: 'https://thriftylesley.com/wp-content/uploads/2013/09/cauliflower.jpg',
     category: 'vegetables',
   },
   {
@@ -125,7 +125,7 @@ export const products: Product[] = [
     tamilName: 'வாழைக்காய்',
     weight: '2 pcs',
     price: 15,
-    imageUrl: 'https://i.imgur.com/8zW3v1G.png',
+    imageUrl: 'https://thevegetablebazaar.in/wp-content/uploads/2022/04/Raw-Banana-1.png',
     category: 'vegetables',
   },
   {
@@ -134,7 +134,7 @@ export const products: Product[] = [
     tamilName: 'சேப்பங்கிழங்கு',
     weight: '500 g',
     price: 30,
-    imageUrl: 'https://i.imgur.com/w1i2z3b.png',
+    imageUrl: 'https://cdn.pixabay.com/photo/2020/07/03/23/52/taro-5367857_1280.jpg',
     category: 'vegetables',
   },
   {
@@ -143,7 +143,7 @@ export const products: Product[] = [
     tamilName: 'சேனைக்கிழங்கு',
     weight: '1 kg',
     price: 50,
-    imageUrl: 'https://i.imgur.com/pW9j2jL.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdDIPlQJ4SQF1Mvu4N1KZZacuqK1lIj2kJA&s',
     category: 'vegetables',
   },
   {
@@ -152,7 +152,7 @@ export const products: Product[] = [
     tamilName: 'பூசணிக்காய்',
     weight: '1 kg',
     price: 25,
-    imageUrl: 'https://i.imgur.com/lO8u2iG.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3MnjhZsPQjq9dQDQ0rD_9dPQE-DLimcZD0Y67qNCzCGUjDW1UBC_2XAALjnpL2L00nM&usqp=CAU',
     category: 'vegetables',
   },
   {
@@ -161,7 +161,7 @@ export const products: Product[] = [
     tamilName: 'சௌ சௌ',
     weight: '500 g',
     price: 20,
-    imageUrl: 'https://i.imgur.com/mO3u1uP.png',
+    imageUrl: 'https://img.cdnx.in/313405/1697191214070_1.jpeg?width=600&format=webp',
     category: 'vegetables',
   },
   {
@@ -170,7 +170,7 @@ export const products: Product[] = [
     tamilName: 'கோவக்காய்',
     weight: '250 g',
     price: 20,
-    imageUrl: 'https://i.imgur.com/tZ2e3jK.png',
+    imageUrl: 'https://www.chefadora.com/_next/image?url=https%3A%2F%2Fchefadora.b-cdn.net%2Fmedium_ingredient_ivy_gourd_8c875b5ca5.png&w=3840&q=75',
     category: 'vegetables',
   },
   {
@@ -179,7 +179,7 @@ export const products: Product[] = [
     tamilName: 'கொத்தவரங்காய்',
     weight: '250 g',
     price: 18,
-    imageUrl: 'https://i.imgur.com/7d4w5eF.png',
+    imageUrl: 'https://parajorganics.com/wp-content/uploads/2019/12/10000040_9-fresho-beans-cluster.jpg',
     category: 'vegetables',
   },
   {
@@ -188,7 +188,7 @@ export const products: Product[] = [
     tamilName: 'சுரைக்காய்',
     weight: '1 pc',
     price: 25,
-    imageUrl: 'https://i.imgur.com/k2j4k5L.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYsouO0sXEJ7gb2CCjyxGvVmQqE6Ef9WVyQ&s',
     category: 'vegetables',
   },
   {
@@ -197,7 +197,7 @@ export const products: Product[] = [
     tamilName: 'பீர்க்கங்காய்',
     weight: '500 g',
     price: 30,
-    imageUrl: 'https://i.imgur.com/qW6x7yZ.png',
+    imageUrl: 'https://organicmandya.com/cdn/shop/files/RidgeGourd.jpg?v=1757083841&width=1500',
     category: 'vegetables',
   },
   {
@@ -206,7 +206,7 @@ export const products: Product[] = [
     tamilName: 'பூண்டு',
     weight: '100 g',
     price: 25,
-    imageUrl: 'https://i.imgur.com/sS4d5eF.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDu52_BDOwZwQvBUDi6eOByiAxeGOVZ-JrA&s',
     category: 'vegetables',
   },
   {
@@ -215,7 +215,7 @@ export const products: Product[] = [
     tamilName: 'இஞ்சி',
     weight: '100 g',
     price: 20,
-    imageUrl: 'https://i.imgur.com/aB3c4dE.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvd0WlROys2ivv0ozprQ-EmTwPydVZKRyggw&s',
     category: 'vegetables',
   },
   {
@@ -224,7 +224,7 @@ export const products: Product[] = [
     tamilName: 'பச்சை மிளகாய்',
     weight: '100 g',
     price: 10,
-    imageUrl: 'https://i.imgur.com/eF4g5hI.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9VtSlERy6gCbVNDIOpnBVIEU7Zdj7qyA7A&s',
     category: 'vegetables',
   },
   {
@@ -233,7 +233,7 @@ export const products: Product[] = [
     tamilName: 'கொத்தமல்லி',
     weight: '1 bunch',
     price: 15,
-    imageUrl: 'https://i.imgur.com/vF1w2xY.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa86r18PngCfFZhZUwAXHc9vkNioB4odaFEw&s',
     category: 'greens',
   },
   {
@@ -242,7 +242,7 @@ export const products: Product[] = [
     tamilName: 'கறிவேப்பிலை',
     weight: '1 bunch',
     price: 5,
-    imageUrl: 'https://i.imgur.com/hJ5k6lM.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSk5UftAnEuC7YHdcaaH7Pn4xOh1zj1ReZ4g&s',
     category: 'greens',
   },
   {
@@ -251,7 +251,7 @@ export const products: Product[] = [
     tamilName: 'பாலக் கீரை',
     weight: '1 bunch',
     price: 20,
-    imageUrl: 'https://i.imgur.com/yG8h9iJ.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1kl3tKNy9LXFTJFcxa-2pzzvVG552fJcaw&s',
     category: 'greens',
   },
   {
@@ -260,7 +260,7 @@ export const products: Product[] = [
     tamilName: 'முருங்கை கீரை',
     weight: '1 bunch',
     price: 15,
-    imageUrl: 'https://i.imgur.com/oP3q4rS.png',
+    imageUrl: 'https://mydiagnostics.in/cdn/shop/articles/img-1749111538563_a4eeaff4-ad76-4019-97c5-ff36a62caf12_1200x.jpg?v=1754660056',
     category: 'greens',
   },
   {
@@ -269,7 +269,7 @@ export const products: Product[] = [
     tamilName: 'அரைக்கீரை',
     weight: '1 bunch',
     price: 15,
-    imageUrl: 'https://i.imgur.com/cW2x3yZ.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl4PGUqLI5zdId9plM0jP0DJw--SHBGA_Pgw&s',
     category: 'greens',
   },
   {
@@ -278,7 +278,7 @@ export const products: Product[] = [
     tamilName: 'சிறுக்கீரை',
     weight: '1 bunch',
     price: 15,
-    imageUrl: 'https://i.imgur.com/uP7g8hJ.png',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBKfP14bMsW_i4vmwD2jXH-b-pWy2Gua1Wkg&s',
     category: 'greens',
   },
 ];

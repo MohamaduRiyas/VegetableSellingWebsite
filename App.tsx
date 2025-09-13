@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import WhyChooseUs from './components/WhyChooseUs';
@@ -13,11 +13,23 @@ import CartSidebar from './components/CartSidebar';
 import CheckoutModal from './components/CheckoutModal';
 import Receipt from './components/Receipt';
 
+declare const emailjs: any;
+
 const App: React.FC = () => {
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isCheckoutOpen, setIsCheckoutOpen] = useState(false);
   const [showReceipt, setShowReceipt] = useState(false);
   const [customerDetails, setCustomerDetails] = useState({ name: '', phone: '' });
+
+  useEffect(() => {
+    // Initialize EmailJS with the public key when the app loads.
+    // This is the recommended approach for the EmailJS v4 SDK.
+    if (typeof emailjs !== 'undefined') {
+      emailjs.init({
+        publicKey: 'GkZn_MpuwENFwMgOv',
+      });
+    }
+  }, []);
 
   const handleCheckout = () => {
     setIsCartOpen(false);

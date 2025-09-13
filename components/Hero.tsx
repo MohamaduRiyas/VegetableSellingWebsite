@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
         </div>
          <div className="mt-20 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
           <img 
-            src="https://images.unsplash.com/photo-1598256926485-52329103e352?q=80&w=1800"
+            src="https://3.imimg.com/data3/KE/MY/MY-1767114/fresh-vegetables.jpg"
             alt="An assortment of fresh vegetables on a clean surface"
             className="mx-auto rounded-2xl shadow-2xl max-w-4xl w-full"
           />
