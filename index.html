@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Butterscotch Sellers - Freshness Delivered</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'brand-text': '#1d1d1f', // Near black for text
+              'brand-primary': {
+                DEFAULT: '#f97316', // orange-500
+                dark: '#ea580c', // orange-600
+              },
+              'brand-secondary': '#facc15', // yellow-400
+              'brand-dark': '#111827', // gray-900
+              'brand-light-gray': '#f5f5f7',
+              'brand-pink': '#DB2777', // For ADD buttons
+              'brand-green': '#16A34A', // For savings text
+              'brand-sidebar-bg': '#F8F4FF', // For active category highlight
+            },
+            fontFamily: {
+              sans: ['Poppins', 'sans-serif'],
+              handwriting: ['Pacifico', 'cursive'],
+            },
+            animation: {
+              'fade-in-up': 'fadeInUp 1s ease-out forwards',
+            },
+            keyframes: {
+              fadeInUp: {
+                '0%': { opacity: '0', transform: 'translateY(30px)' },
+                '100%': { opacity: '1', transform: 'translateY(0)' },
+              },
+            },
+          },
+        },
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "react": "https://aistudiocdn.com/react@^19.1.1"
+  }
+}
+</script>
+</head>
+  <body class="bg-white text-brand-text font-sans antialiased leading-relaxed">
+    <div id="root"></div>
+  </body>
+</html>
